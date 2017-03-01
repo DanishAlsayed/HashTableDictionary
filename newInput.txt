@@ -1,0 +1,66 @@
+insert quemadmodum how, in what manner. how? /just as, lust like.
+lookup quemadmodum
+status
+remove quemadmodum
+lookup quemadmodum
+status
+insert quemadmodum how, in what manner. how? /just as, lust like.
+lookup quemadmodum
+status
+lookup latin
+remove latin
+status
+remove diatesseron
+remove elemosinarius
+remove frequentatio
+remove inhospitalitas
+remove magnificabiliter
+remove perseverantia
+remove pollicitatio
+remove prothoplastus
+remove quinquagesimus
+remove sanctimonialis
+remove scrupulositas
+remove sesquimellesimus
+remove specialissimus
+remove pollicitatio
+remove tempestuosus
+remove voluptuosus
+status
+remove magnificabiliter
+lookup elemosinarius
+insert elemosinarius almoner, person in charge of providing charity.
+lookup elemosinarius
+insert elemosinarius almoner, person in charge of providing charity.
+insert frequentatio frequency, crowding.
+insert magnificabiliter splendidly, greatly, terrifically.
+insert voluptuosus delightful, pleasurable. luxurious, pleasure-seeking.
+insert sesquimellesimus 1500th.
+insert sanctimonialis nun, sister.
+insert prothoplastus the first man.
+lookup tempestuosus
+insert scrupulositas rough spot, jagged edge.
+insert perseverantia perseverence, persistence. steadfastness.
+insert inhospitalitas lack of hospitality.
+insert pollicitatio promise.
+lookup inhospitalitas
+insert diatesseron fourth.
+insert quinquagesimus fiftieth, a fiftieth part.
+insert specialissimus very strange, peculiar, individual.
+insert tempestuosus stormy.
+insert sanctimonialis nun, sister.
+lookup tempestuosus
+status
+insert sanctimonialis nun, sister.
+insert trebuchettum a trebuchet, a siege engine.
+remove trebuchettum
+lookup trebuchettum
+insert trebuchettum a trebuchet, a siege engine.
+lookup trebuchettum
+remove expergefacio
+lookup expergefacio
+insert expergefacio to awaken.
+remove expergefacio
+lookup expergefacio
+insert expergefacio to awaken.
+status
